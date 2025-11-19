@@ -1,12 +1,12 @@
 <img width="100%" alt="Osamabin Somrat | MEARN stack web developer" src="https://github.com/user-attachments/assets/b0c18a7a-eaee-41ca-aeca-cc522ed40c94" />
 
 <h1 align="center">Hi 👋, I'm Osamabin Somrat</h1>
-<h3 align="center">MEARN Stack Web Developer</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&width=1000&lines=MEARN+Stack+Web+Developer;Passionate+Full+Stack+Web+Developer;Deply+Backend+Learner" alt="Typing SVG" /></a>
 
 ---
 
 ## 👨‍💻 About Me  
-I’m a passionate MEARN Stack Web Developer who loves creating modern, clean and user-friendly web applications.  
+I’m a passionate Full Stack Web Developer who loves creating modern, clean and user-friendly web applications.  
 I enjoy exploring new tools and improving my development workflow.
 
 ---
