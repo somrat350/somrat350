@@ -54,24 +54,24 @@ I enjoy exploring new tools and improving my development workflow.
 ---
 
 ## 📌 Pinned Projects  
-### 👉 1. **Travel BD – Tourism Website**
-A responsive tourism platform built using React, Tailwind, Node.js & MongoDB.  
-**Live:** https://example.com  
-**Repo:** https://github.com/somrat350/travel-bd  
+### 👉 1. **Car Rental Service (Frontend + Backend)**
+A complete car rental website with booking system.  
+**Live:** [https://car-rental.com ](https://assignment-no10-private.web.app/)  
+**Repo:** [https://github.com/somrat350/car-rental  ](https://github.com/somrat350/Assignment-no10-private-client) 
 
 ---
 
-### 👉 2. **Car Rental Service (Frontend + Backend)**
-A complete car rental website with booking system & admin features.  
-**Live:** https://example.com  
-**Repo:** https://github.com/somrat350/car-rental  
+### 👉 2. **Pet Care Service (Frontend)**
+A frontend pet care website with booking system.  
+**Live:** [https://car-rental.com ](https://assignment-no10-private.web.app/)  
+**Repo:** [https://github.com/somrat350/car-rental  ](https://github.com/somrat350/Assignment-no10-private-client)
 
 ---
 
-### 👉 3. **YouTube Video Downloader (Custom Node Tool)**
-A clean tool where users can download YouTube videos easily.  
-**Live:** https://example.com  
-**Repo:** https://github.com/somrat350/video-downloader  
+### 👉 3. **Appify | apps installer (Frontend)**
+A clean tool where users can download Apps easily.  
+**Live:** [https://appify.com  ](https://assignment-no8-appify.netlify.app/installation)
+**Repo:** [https://github.com/somrat350/appify  ](https://github.com/somrat350/Assignment-no8)
 
 ---
 
