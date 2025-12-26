@@ -2,7 +2,7 @@
 <img width="3780" height="1890" alt="Blue and White Illustrated Welcome Banner" src="https://github.com/user-attachments/assets/5c548824-5d9e-459d-9668-e712fbdec956" />
 
 <h1 align="center">Hi 👋, I'm Osamabin Somrat</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&width=1000&lines=MEARN+Stack+Web+Developer;Passionate+Full+Stack+Web+Developer;Deply+Backend+Learner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&width=1000&lines=MEARN+Stack+Web+Developer;Passionate+Full+Stack+Web+Developer;Deply+Next.js+Learner" alt="Typing SVG" /></a>
 
 ---
 
