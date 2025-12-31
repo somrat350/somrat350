@@ -57,10 +57,15 @@ I enjoy exploring new tools, improving my workflow, and continuously learning to
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Activity
+
 <p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=somrat350&show_icons=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somrat350" />
+  <img src="https://github-readme-stats-henna-seven-28.vercel.app/api?username=somrat350&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats-henna-seven-28.vercel.app/api/top-langs/?username=somrat350&layout=compact&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=somrat350&theme=radical" height="170"/>
 </p>
 
 ---
