@@ -7,8 +7,9 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m a passionate Full Stack Web Developer who loves creating modern, clean and user-friendly web applications.  
-I enjoy exploring new tools and improving my development workflow.
+I’m a passionate Full Stack Web Developer focused on building modern, clean, and user-friendly web applications. I have a strong foundation in Next.js and I’m currently learning its advanced concepts to create scalable and high-performance solutions.
+
+I enjoy exploring new tools, improving my workflow, and continuously learning to stay aligned with modern web technologies.
 
 ---
 
@@ -31,17 +32,27 @@ I enjoy exploring new tools and improving my development workflow.
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
+### **Full Stack**
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,mongodb" />
+</p>
+
+### **Authentication**
+<p>
+<img src="https://skillicons.dev/icons?i=firebase" />
+</p>
+
 ### **Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 </p>
 
 ---
 
 ## 🌐 Social Links  
 - **LinkedIn:** (Not created)  
-- **Facebook:** (Not created)  
-- **Portfolio:** (Not created)  
+- **Facebook:** [facebook.com/somrat350](https://www.facebook.com/somrat350/)
+- **Portfolio:** [portfolio/osamabin-somrat](https://nextjs-portfolio-two-jet-37.vercel.app/)
 - **Email:** mdsomratsordaro350@gmail.com  
 
 ---
@@ -55,21 +66,28 @@ I enjoy exploring new tools and improving my development workflow.
 ---
 
 ## 📌 Pinned Projects  
-### 👉 1. **Car Rental Service (Frontend + Backend)**
+### 👉 1. **Care Services (Full Stack)**
+A complete care services website with booking system.  
+**Live:** [https://care-services.com ](https://care-mauve.vercel.app/)  
+**Repo:** [https://github.com/somrat350/car-services  ](https://github.com/somrat350/Care.com) 
+
+---
+
+### 👉 2. **Car Rental Service (Frontend + Backend)**
 A complete car rental website with booking system.  
 **Live:** [https://car-rental.com ](https://assignment-no10-private.web.app/)  
 **Repo:** [https://github.com/somrat350/car-rental  ](https://github.com/somrat350/Assignment-no10-private-client) 
 
 ---
 
-### 👉 2. **Pet Care Service (Frontend)**
+### 👉 3. **Pet Care Service (Frontend)**
 A frontend pet care website with booking system.  
 **Live:** [https://car-rental.com ](https://assignment-no10-private.web.app/)  
 **Repo:** [https://github.com/somrat350/car-rental  ](https://github.com/somrat350/Assignment-no10-private-client)
 
 ---
 
-### 👉 3. **Appify | apps installer (Frontend)**
+### 👉 4. **Appify | apps installer (Frontend)**
 A clean tool where users can download Apps easily.  
 **Live:** [https://appify.com  ](https://assignment-no8-appify.netlify.app/installation)
 **Repo:** [https://github.com/somrat350/appify  ](https://github.com/somrat350/Assignment-no8)
