@@ -70,33 +70,4 @@ I enjoy exploring new tools, improving my workflow, and continuously learning to
 
 ---
 
-## 📌 Pinned Projects  
-### 👉 1. **Care Services (Full Stack)**
-A complete care services website with booking system.  
-**Live:** [https://care-services.com ](https://care-mauve.vercel.app/)  
-**Repo:** [https://github.com/somrat350/car-services  ](https://github.com/somrat350/Care.com) 
-
----
-
-### 👉 2. **Car Rental Service (Frontend + Backend)**
-A complete car rental website with booking system.  
-**Live:** [https://car-rental.com ](https://assignment-no10-private.web.app/)  
-**Repo:** [https://github.com/somrat350/car-rental  ](https://github.com/somrat350/Assignment-no10-private-client) 
-
----
-
-### 👉 3. **Pet Care Service (Frontend)**
-A frontend pet care website with booking system.  
-**Live:** [https://car-rental.com ](https://assignment-no10-private.web.app/)  
-**Repo:** [https://github.com/somrat350/car-rental  ](https://github.com/somrat350/Assignment-no10-private-client)
-
----
-
-### 👉 4. **Appify | apps installer (Frontend)**
-A clean tool where users can download Apps easily.  
-**Live:** [https://appify.com  ](https://assignment-no8-appify.netlify.app/installation)
-**Repo:** [https://github.com/somrat350/appify  ](https://github.com/somrat350/Assignment-no8)
-
----
-
 ⭐ *Thanks for visiting my profile! Feel free to connect with me.*
