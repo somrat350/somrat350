@@ -50,7 +50,7 @@ I enjoy exploring new tools, improving my workflow, and continuously learning to
 ---
 
 ## 🌐 Social Links  
-- **LinkedIn:** (Not created)  
+- **LinkedIn:** [linkedin.com/in/osamabin-somrat](https://www.linkedin.com/in/osamabin-somrat/)
 - **Facebook:** [facebook.com/somrat350](https://www.facebook.com/somrat350/)
 - **Portfolio:** [portfolio/osamabin-somrat](https://nextjs-portfolio-two-jet-37.vercel.app/)
 - **Email:** mdsomratsordaro350@gmail.com  
